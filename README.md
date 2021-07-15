@@ -34,7 +34,7 @@ To get a local copy up and running follow these simple example steps.
 ![Screenshot](Screenshot.png)
 
 ## Live-Demo
- -----> 
+ -----> <a href="https://hlamulo-mav.github.io/index.html" rel="nofollow">Live Demo</a>
 
 ## Authors
 :bust_in_silhouette: **Hlamulo**
